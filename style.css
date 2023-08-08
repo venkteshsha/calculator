@@ -83,7 +83,7 @@ form input.operator{
     background-color: #333;
     z-index: -1;
 }
-@media(max-width:330px)
+@media(max-width:350px)
 {
     .calculator form input {
         border: 0;
